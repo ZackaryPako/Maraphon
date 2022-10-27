@@ -5,5 +5,6 @@ public class Task2 {
 for (int i =0 ; i<10;i++){
     System.out.print("JAVA ");
 }
+        System.out.println("Hello, World, i`m in Chanakkale");
     }
 }
